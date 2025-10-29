@@ -6,6 +6,7 @@ The four prominent cards establish the business context immediately:
 •	Avg Sales: $141 - A high average transaction value suggests customers are purchasing multiple items or high-value goods per order.
 •	Avg Rating: 4 (out of 5) - Indicates a high level of overall customer satisfaction with the products and service.
 •	No. of Items: 8523 - The total number of unique or distinct items recorded in sales.
+
 📈 Chart-by-Chart Analysis and Insights
 1.	Outlet Establishment (Trend Line):
 o	Description: This chart tracks the total sales over the years based on the establishment date of the outlets.
